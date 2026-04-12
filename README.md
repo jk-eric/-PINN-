@@ -14,7 +14,8 @@
 
 ```text
 FD-PINN-3D-Wind-Field-Prediction/
-├── .venv/                  # 虚拟环境（本地使用，不提交GitHub）
+├── we5                            # 在we=5下不同数据集图片结果
+├── ratio_10                       # 在10%数据集下we取不同权重图片结果
 ├── src/
 │   ├── SRM_wind_field.py          # 生成仿真风场数据
 │   ├── SRM_wind_field_plot.py     # 绘制仿真风场图
