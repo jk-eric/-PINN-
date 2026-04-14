@@ -55,7 +55,7 @@ pip install -r requirements.txt
  
 2.2 数据集预处理
  
-- 运行 [src/data_set.py](src/data_set.py)，完成数据加载、归一化与训练/测试集划分。
+- 运行 [src/data_set.py](src/data_set.py)，完成数据加载、归一化与训练/测试集划分。选择测点百分比
  
 2.3 模型训练
  
